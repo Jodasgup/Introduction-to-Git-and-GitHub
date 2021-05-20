@@ -1,2 +1,1 @@
-# Introduction-to-Git-and-GitHub
-This is an hands on assignment of the course.
+I am editing the README file. Adding some more details about the project description.
